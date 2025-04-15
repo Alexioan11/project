@@ -1,0 +1,17 @@
+D:\c++\clasa creata\clasa creata\bin\Debug\net8.0-windows\clasa creata.exe
+D:\c++\clasa creata\clasa creata\bin\Debug\net8.0-windows\clasa creata.deps.json
+D:\c++\clasa creata\clasa creata\bin\Debug\net8.0-windows\clasa creata.runtimeconfig.json
+D:\c++\clasa creata\clasa creata\bin\Debug\net8.0-windows\clasa creata.dll
+D:\c++\clasa creata\clasa creata\bin\Debug\net8.0-windows\clasa creata.pdb
+D:\c++\clasa creata\clasa creata\obj\Debug\net8.0-windows\clasa_creata.Form1.resources
+D:\c++\clasa creata\clasa creata\obj\Debug\net8.0-windows\clasa creata.csproj.GenerateResource.cache
+D:\c++\clasa creata\clasa creata\obj\Debug\net8.0-windows\clasa creata.GeneratedMSBuildEditorConfig.editorconfig
+D:\c++\clasa creata\clasa creata\obj\Debug\net8.0-windows\clasa creata.AssemblyInfoInputs.cache
+D:\c++\clasa creata\clasa creata\obj\Debug\net8.0-windows\clasa creata.AssemblyInfo.cs
+D:\c++\clasa creata\clasa creata\obj\Debug\net8.0-windows\clasa creata.csproj.CoreCompileInputs.cache
+D:\c++\clasa creata\clasa creata\obj\Debug\net8.0-windows\clasa creata.dll
+D:\c++\clasa creata\clasa creata\obj\Debug\net8.0-windows\refint\clasa creata.dll
+D:\c++\clasa creata\clasa creata\obj\Debug\net8.0-windows\clasa creata.pdb
+D:\c++\clasa creata\clasa creata\obj\Debug\net8.0-windows\clasa creata.genruntimeconfig.cache
+D:\c++\clasa creata\clasa creata\obj\Debug\net8.0-windows\ref\clasa creata.dll
+D:\c++\clasa creata\clasa creata\obj\Debug\net8.0-windows\clasa_creata.Properties.Resources.resources
